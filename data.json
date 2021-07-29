@@ -1,0 +1,37 @@
+{
+    "navData": {
+      "logo": {
+        "imgSrc": "https://niravkpatel28.github.io/github-image-repository/webpage/surfboard-logo.png",
+        "alt": "Surfboard India Company Logo"
+      },
+      "navLinks": [
+        { "linkId": "li1", "title": "Home", "href": "#" },
+        { "linkId": "li2", "title": "Our Work", "href": "#" },
+        { "linkId": "li3", "title": "About Us", "href": "#" },
+        { "linkId": "li4", "title": "Register", "href": "#", "isCta": true }
+      ]
+    },
+    "bannerData": {
+      "companyName": "Render Webpage using JavaScript Object",
+      "tagline": "using modular code for page rendering",
+      "cta": "Contact Us",
+      "href": "#",
+      "bannerImage": "https://niravkpatel28.github.io/github-image-repository/webpage/banner2.png"
+    },
+    "footer":{
+        "tagline":"GET READY TO EXPLORE!",
+        "buttons":"CLICK ME",
+        "para1":"Copyright © 2021 Raw Engineering LLC. All Rights Reserved.",
+        "logo1": {
+          "imgSrc":"https://niravkpatel28.github.io/github-image-repository/webpage/surfboard-logo.png",
+          "alt": "Surfboard India Company Logo"
+        }
+         "navLinks": [
+            { "Id": "icon1", "className": "fa-twitter", "href": "#" },  
+             { "Id": "icon2", "className": "fa-github-alt", "href": "#" }             
+            { "Id": "icon3", "className": "fa-linkedin-in", "href": "#" },
+           
+          ],
+    }
+
+  }
