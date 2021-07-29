@@ -25,13 +25,14 @@
         "logo1": {
           "imgSrc":"https://niravkpatel28.github.io/github-image-repository/webpage/surfboard-logo.png",
           "alt": "Surfboard India Company Logo"
-        }
+       
          "navLinks": [
             { "Id": "icon1", "className": "fa-twitter", "href": "#" },  
              { "Id": "icon2", "className": "fa-github-alt", "href": "#" }             
             { "Id": "icon3", "className": "fa-linkedin-in", "href": "#" },
            
           ],
+}
     }
 
   }
