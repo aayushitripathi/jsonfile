@@ -26,7 +26,7 @@
           "navLinks": [
             { "iconId": "icon1", "className": "fa-twitter", "href": "#" },               
             { "iconId": "icon2", "className": "fa-linkedin-in", "href": "#" },
-            { "iconId": "icon3", "className": "fa-github-alt", "href": "#" }
+            { "iconId": "icon3", "className": "fab fa-github", "href": "#" }
           ],
           "tagline":"GET READY TO EXPLORE!",
         "buttons":"CLICK ME",
