@@ -11,6 +11,10 @@
         { "linkId": "li4", "title": "Register", "href": "#", "isCta": true }
       ]
     },
+     "hamburger":{
+    "imageSrc ": "https://niravkpatel28.github.io/github-image-repository/webpage/menu-black.png",
+    "alt":"hamburger",
+     }
     "bannerData": {
       "companyName": "Render Webpage using JavaScript Object",
       "tagline": "using modular code for page rendering",
