@@ -13,7 +13,7 @@
     },
      "hamburger":{
     "imageSrc ": "https://niravkpatel28.github.io/github-image-repository/webpage/menu-black.png",
-    "alt":"hamburger",
+    "alt":"hamburger"
      },
     "bannerData": {
       "companyName": "Render Webpage using JavaScript Object",
